@@ -7,6 +7,7 @@ contributors:
   - Sophie Wilson
   - Athena
   - Anonymous
+  - Daniel Pett
 compiler:
   - Daniel Pett
 ---
