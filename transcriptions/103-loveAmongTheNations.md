@@ -1,7 +1,10 @@
 ---
 title: Love Among the Nations
 contributors:
-  -
+  - Chris Gibbon
+  - Mariah Ashbacher
+  - Michael Norman
+  - Shona Hoey
 compiler:
   - Daniel Pett
 ---
