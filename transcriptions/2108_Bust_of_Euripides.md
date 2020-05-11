@@ -6,6 +6,8 @@ contributors:
   - Emily Chang
   - Adi Levin
   - Chris Gibbon
+compiler:
+  - Daniel Pett
 ---
 
 This is an imaginary portrait of the 5th century Athenian playwright Euripides. It's a copy of a statue made several decades after his death, for the theatre of Dionysus in Athens, where his plays were first produced.

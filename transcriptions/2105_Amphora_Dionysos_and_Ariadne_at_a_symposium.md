@@ -4,6 +4,8 @@ contributors:
   - Michael Adams
   - Michael Norman
   - Adi Levin
+compiler:
+  - Daniel Pett
 ---
 
 The decoration of many Greek vases reflects their use at the Symposium, the
@@ -16,5 +18,5 @@ Dionysus is shown here with his lover, the Cretan princess Ariadne. Her flesh is
 depicted in white, as was the custom for women on black figure pots. In an
 ancient account of a symposium, the Greek writer Xenophon describes how the
 guests watched a short erotic mime about Dionysus and Ariadne which so inflamed
-them that most cantered home immediately to make love to their wives, all those that were unmarried swore 
+them that most cantered home immediately to make love to their wives, all those that were unmarried swore
 that they would find a mate.

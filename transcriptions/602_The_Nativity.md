@@ -5,7 +5,8 @@ contributors:
   - Jasmine E. Brady
   - Jeff Okazaki
   - 2 anonymous users
-length: ""
+compiler:
+  - Daniel Pett
 ---
 Domenico Ghirlandaio ran one of the biggest and most successful artist workshops
 in Florence towards the end of the Fifteenth Century, and it used to be thought

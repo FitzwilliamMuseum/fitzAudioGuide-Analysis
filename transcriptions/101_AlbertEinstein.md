@@ -5,7 +5,8 @@ contributors:
   - Hannah Smith
   - Mariah Ashbacher
   - 2 Anonymous contributors
-length: ""
+compiler:
+  - Daniel Pett
 ---
 
 This bronze head, with its rough unfinished appearance, is as affably informal, as the great physicist Albert Einstein, himself is reputed to have been. With his drooping eyelids and unkempt moustache, genius has been humanised.
