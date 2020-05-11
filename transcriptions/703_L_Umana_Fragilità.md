@@ -1,5 +1,5 @@
 ---
-title: _L'Umana Fragilità
+title: L'Umana Fragilità
 contributors:
   - Louisa de Gooijer
   - Adi Levin
