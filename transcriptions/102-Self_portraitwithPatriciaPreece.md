@@ -11,7 +11,13 @@ compiler:
   - Daniel Pett
 ---
 
-Stanley Spencer likened his method of painting Patricia Preece, the woman in this painting, to an ant crawling over her body. Look at the creases in her flesh here: the sharply protruding pelvic bone, the brilliantly observed range of skin tones; this is an almost unsettlingly forthright depiction of a naked body. But if this detail suggests a physical intimacy between the artist and his model, there seems to be at the same time an emotional gulf between the couple who are shown. Preece's face wears a bored, disappointed expression. Her eyes are unfocused and vacant. While the man, Spencer himself, gazes at her. Not much happier, one feels, than she. The sheets are crumpled. He's but there’s little sense of fulfilment. Spencer painted this canvas in 1937. In May of that year he married Patricia Preece only four days after his divorce from his first wife Hilda had been finalized. In fact, Spencer had always fantasized about having two wives.
+Stanley Spencer likened his method of painting Patricia Preece, the woman in this painting, to an ant crawling over her body. Look at the creases in her flesh here: the sharply protruding pelvic bone, the brilliantly observed range of skin tones; this is an almost unsettlingly forthright depiction of a naked body. But if this detail suggests a physical intimacy between the artist and his model, there seems to be at the same time an emotional gulf between the couple who are shown.
+
+Preece's face wears a bored, disappointed expression. Her eyes are unfocused and vacant. While the man, Spencer himself, gazes at her. Not much happier, one feels, than she.
+
+The sheets are crumpled. He's but there’s little sense of fulfilment. Spencer painted this canvas in 1937.
+
+In May of that year he married Patricia Preece only four days after his divorce from his first wife Hilda had been finalized. In fact, Spencer had always fantasized about having two wives.
 
 Here’s the Fitzwilliam’s former director, Duncan Robinson:
 
