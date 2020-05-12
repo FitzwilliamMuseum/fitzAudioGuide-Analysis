@@ -1,5 +1,5 @@
 ---
-title: Groote_Kerk_at_Haarlem
+title: Groote Kerk at Haarlem
 contributors:
   - Michael Norman
   - Shona Hoey
